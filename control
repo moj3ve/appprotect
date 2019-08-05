@@ -1,0 +1,10 @@
+Package: com.castyte.appprotect
+Name: appprotect
+Depends: mobilesubstrate, firmware (>= 10.0), applist, preferenceloader
+Version: 0--b1
+Architecture: iphoneos-arm
+Description: Lock your apps with FaceID/TouchID
+Maintainer: Castyte <castyte@pm.me>
+Author: Castyte <castyte@pm.me>
+Section: Tweaks
+Depiction: https://castyte.js.org/repo/debs/com.castyte.appprotect/index.html
