@@ -1,5 +1,8 @@
-#import <LocalAuthentication/LocalAuthentication.h>
+// (c) Castyte 2019
+// Licensed Mozilla Public License Version 2.0
+// Full license available in LICENSE file
 
+#import <LocalAuthentication/LocalAuthentication.h>
 
 LAPolicy policy = LAPolicyDeviceOwnerAuthentication; 
 NSString *reason = @"AppProtect";
